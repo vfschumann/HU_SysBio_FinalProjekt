@@ -15,9 +15,9 @@ Next Steps:
 * AE, VAE, UMAP, PCA, PCA+UMAP (search for source)  
 * neues notebook für comparison   
 * optimierung der Autoencoder  
-        * overfit testing  
-        * auf test daten schmeißen
-        * Validation daten ?  
+        * overfit testing    
+        * auf test daten schmeißen  
+        * Validation daten ?    
 * Notebook für comparsion   
 * evaluation plots
 * descision über fine tuning der Models - ja/nein  
