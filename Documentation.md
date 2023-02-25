@@ -15,6 +15,9 @@ Next Steps:
 * AE, VAE, UMAP, PCA, PCA+UMAP (search for source)  
 * neues notebook für comparison   
 * optimierung der Autoencoder  
+        * overfit testing  
+        * auf test daten schmeißen
+        * Validation daten ?  
 * Notebook für comparsion   
 * evaluation plots
 * descision über fine tuning der Models - ja/nein  
@@ -24,4 +27,10 @@ Next Steps:
 Arbeitspaket 2: 
 * sc daten suchen und darauf schmeißen 
 * Fragestellung genauer spezifizieren (andere Model? nur unsere Model? Was genau wollen wir erreichen? Eigentlich ja den step von "beispiel --> realworld") 
-*  
+* anwendung dann nur auf trainingsset oder auch verwandten experimenten?  
+
+**open questions**  
+
+* [cluster anaylse](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)  
+* richtiger umgang k-means? fit oder fit_predict  
+* 
